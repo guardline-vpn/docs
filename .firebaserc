@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "guardline-vpn"
+  },
+  "targets": {
+    "got-the-test-staging": {
+      "hosting": {
+        "docs": [
+          "guardline-docs"
+        ]
+      }
+    }
+  }
+}
