@@ -3,7 +3,7 @@
     "default": "guardline-vpn"
   },
   "targets": {
-    "got-the-test-staging": {
+    "guardline-vpn": {
       "hosting": {
         "docs": [
           "guardline-docs"
